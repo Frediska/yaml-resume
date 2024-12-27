@@ -1,0 +1,22 @@
+details:
+  first_name: Aleksandr
+  last_name: Makarov
+  title: Backend/Frontend Developer
+profile: |
+  Python and C# developer, as well as HTML and JavaScript, I study at TUSUR University, develop my skills and learn new things to improve myself.
+contact:
+  - text: Email
+    url: "mailto:zuzzlk@mail.ru"
+    icon: email
+  - text: GitHub
+    url: "https://github.com/Frediska"
+    icon: github
+technical:
+  - category: Languages
+    items: python,C#,HTML,JavaScript
+  - category: Databases
+    items: MS SQL Server,MySql
+  - category: Containers & Orchestration
+    items: docker,docker-compose
+  - category: CI/CD
+    items: GitHub Actions
